@@ -1,7 +1,7 @@
 ---
 title: "安装kvm"
 date: 2021-03-29T14:48:52+08:00
-draft: true
+draft: false
 ---
 
 ### 在centos上安装kvm
@@ -64,3 +64,8 @@ rtl8139 10/100Mb/s
 e1000 1Gb/s
 virtio 10Gb/s
 ```
+
+### 存储目录
+
+虚拟机的镜像文件默认放在 /var/lib/libvirt/images/ 中，可以修改
+虚拟机的xml描述文件默认在 /etc/libvirt/qemu
