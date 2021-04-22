@@ -4,3 +4,9 @@ date: 2021-03-18T18:13:52+08:00
 draft: true
 ---
 
+windows10
+wsl2
+archlinux
+fonts
+fish
+pgp
