@@ -10,9 +10,9 @@ draft: true
 
 Chinese Pidgin working
 
-windows10
+windows11 choco 现在倾向于scoop
 wsl2
-archlinux
+archlinux wslarch wsldl
 fonts
 fish
 pgp
