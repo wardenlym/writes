@@ -12,6 +12,17 @@ AWL NAWL 雅思8000词
 听englishpod学句子，听englishpod 1234jefflife 背句子
 
 3. 计划
-写作
+写作  
+顾家北顾家北手把手教你雅思写作+观点库
 
-4. 减压真题
+口语合意包+杨帅口语
+
+4. 减压真题 我希望最后再做题。先联系听说读写
+
+
+
+
+
+https://www.zhihu.com/question/293916524
+ref
+https://www.zhihu.com/question/293916524/answer/1097394635
