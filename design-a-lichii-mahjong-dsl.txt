@@ -1,0 +1,75 @@
+# a text protocol for describing lichii maj
+
+## concept
+
+trying to balance transport protocol and human reading
+
+server should hold the whole game infomation with Game 
+
+server -----> client Event begin with :
+server <----- client Action begin with .
+
+tile identifier:
+
+0123456789mps
+z1z2z3z4z5z6z7
+
+# line comment
+
+% % everything use this protocol should surround with % and a line end use \n.
+
+%
+@fucntion-name  # first line is a function name with . and lowcase [a-z0-9 -!?]
+%
+
+functions
+
+1 game       whole game infomation
+2 round      current round info
+3 
+
+### server state hold describe
+
+%
+@game
+4half east2 25000 25000 25000 25000
+
+%
+
+# 1. <players count and mode> <current round> <player id sequnce point>
+
+### transport
+
+Event message
+
+every time server repeat send shoupai info to player to validate
+
+-
+:mo 1p
+1p2p3p4m5m6m7s8s9sz1z2z3z4
+
+-
+.qie 1p
+
+
+
+================================================
+send to client
+
+Game start Info
+player count: 4
+mode: nan
+init point: 25000
+dora: 1
+
+Round start Info
+25000 25000 25000 25000
+
+
+server state
+
+client state
+
+
+
+
