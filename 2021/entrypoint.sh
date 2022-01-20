@@ -1,0 +1,3 @@
+#!/bin/sh
+
+kube-explorer "${@}"
