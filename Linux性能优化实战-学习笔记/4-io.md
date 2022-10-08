@@ -139,7 +139,6 @@ explain select * from products where productName='geektime';
 
 ## redis 响应延迟问题
 
-
 ## fio 工具
 
 ```bash

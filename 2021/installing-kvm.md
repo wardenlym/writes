@@ -28,7 +28,8 @@ sudo kvm-ok
 # INFO: /dev/kvm exists
 # KVM acceleration can be used
 
-sudo apt install -y qemu qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virtinst virt-manager
+sudo apt install -y qemu qemu-kvm libvirt-daemon-system libvirt-clients brid
+ge-utils virtinst virt-manager
 # qemu package (quick emulator) is an application that allows you to perform hardware virtualization.
 # qemu-kvm - software that provides hardware emulation for the KVM hypervisor.
 # libvirt-daemon-system - configuration files to run the libvirt daemon as a system service.
